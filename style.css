@@ -64,7 +64,7 @@ p {
 .img-shohreh {
   max-width: 20%;
   float: left;
-  margin: auto;
+  margin-right: 10px;
 }
 
 .img-university {
